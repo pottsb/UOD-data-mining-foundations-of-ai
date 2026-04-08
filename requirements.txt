@@ -1,0 +1,8 @@
+lime==0.2.0.1
+matplotlib==3.9.1
+numpy==2.0.0
+opencv_python==4.9.0.80
+pandas==2.2.2
+scikit_learn==1.4.2
+skimage
+tensorflow_intel==2.10.0
