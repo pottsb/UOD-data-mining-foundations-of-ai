@@ -8,4 +8,5 @@ I made these notebooks as part of the data mining and foundations of AI module w
 <br/>
 I achieved an overall grade of 80% for the module.
 
+## Powerpoint overview of assignment 2
 [![Powerpoint overview of assignment 2](thumb.png)](https://youtu.be/4QtFnwznKY4)
